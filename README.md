@@ -19,7 +19,9 @@
 </table>
 <br>
 <h2>Ini Output Latihan</h2>
+
 ![Output latihan](gambar/output.latihan.png)
 <br>
 <h2>Ini Output Latihan Copy</h2>
+
 ![Output latihan](gambar/output.copy.png)
